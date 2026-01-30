@@ -1,0 +1,18 @@
+# STM32 / Embedded build files
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.hex
+*.map
+*.list
+*.su
+*.cyclo
+
+# IDE files
+.settings/
+*.launch
+
+# OS files
+*.zip
