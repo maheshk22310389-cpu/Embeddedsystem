@@ -1,0 +1,12 @@
+../Src/main.c:49:6:TIM1_Init	4	static
+../Src/main.c:59:6:delay_us	16	static
+../Src/main.c:68:6:delay_ms	16	static
+../Src/main.c:73:6:GPIO_Init	4	static
+../Src/main.c:106:6:TIM2_Init	4	static
+../Src/main.c:114:6:EXTI_Alert_Init	4	static
+../Src/main.c:125:7:get_distance	8	static
+../Src/main.c:141:6:motor_on	4	static
+../Src/main.c:146:6:motor_off	4	static
+../Src/main.c:152:6:trigger_distance_interrupt	8	static
+../Src/main.c:159:6:EXTI3_IRQHandler	8	static
+../Src/main.c:167:5:main	16	static
